@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+streamlit
+duckdb
+pandas
+numpy
+python-dotenv
+redis
+rq
+pytest
+httpx
